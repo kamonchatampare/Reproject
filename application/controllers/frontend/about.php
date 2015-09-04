@@ -1,6 +1,6 @@
 <?php defined ('BASEPATH') OR exit ('No direct script access allwed');
 
-class Index extends CI_Controller {
+class Adout extends CI_Controller {
 
 	public function __construct (){
 		parent::__construct();
@@ -13,10 +13,10 @@ class Index extends CI_Controller {
 		$this->load->view('frontend/header');
 		$this->load->view('frontend/menu');
 		$this->load->view('frontend/slider');
-		$this->load->view('frontend/index');
 		$this->load->view('frontend/footer');
 		$this->load->view('frontend/script');	
 		$this->load->view('frontend/about');
+		$this->load->view('frontend/index');
 	}
 
 	
