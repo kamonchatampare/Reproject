@@ -6,26 +6,53 @@
 <!-- ข่าวสาร -->
 
 <div class='row'>
-	<div class='col-md-offset-5 col-md-2'>
+<div class= 'col-md-12'>
+   <div class= 'col-md-6'>
+	<div class='col-md-12'>
 		<center>
 			<p class='title-header org'>ข่าวประชาสัมพันธ์</p>
 			
-		</center>
+		</center><br>
 	</div>
 	<div class='col-md-12 mgt30'>
 		<div class='container'>
 			<div class="row">
 				<div class="col-md-4">
-					<img src='<?php echo base_url("asset/images/about2.jpg") ?>' width='100%' height='80%'>
+					<img src='<?php echo base_url("asset/images/about2.jpg") ?>' width='60%' height='40%'>
 				</div>
 				<div class="col-md-8" > 
-					<font size='5px'>หัวข้อข่าว <span style='font-size:10px;' class='pull-right'><i class="fa fa-calendar"></i> 20-01-2015<span></font>
+					<font size='3px'>หัวข้อข่าว </font>
 					<p>รายละเอียด</p>
 				</div>
 			</div>
 		</div>
 	</div>
+	
+	</div>
+	
+	
+	  <div class= 'col-md-6'>
+	<div class='col-md-12'>
+		<center>
+			<p class='title-header org'>งานวิจัย</p>
+			
+		</center><br>
+	</div>
+	<div class='col-md-12 mgt30'>
+		<div class='container'>
+			<div class="row">
+				<div class="col-md-4">
+					<img src='<?php echo base_url("asset/images/about2.jpg") ?>' width='60%' height='40%'>
+				</div>
+				<div class="col-md-8" > 
+					<font size='4px'>ชื่องานวิจัย </font>
+					<p>รายละเอียด</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
 </div>
-
+</div>
 
 				

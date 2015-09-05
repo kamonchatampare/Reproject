@@ -614,7 +614,7 @@ address {
 }
 }
 .img-banner{
-	width:270px;
+	width:300px;
 	height:100px;
 	margin-top: -35px;
 	
@@ -634,22 +634,42 @@ address {
 .pd10{
 	padding: 10px;
 }
-.mgt30{
-	margin-top: 30px;
-}
+
 .bg-pink{
 	background-color: pink ;
 	padding:10px;
 }
 .title-header{
 	border-bottom: 2px  dashed #FF6930;
-	padding: 10px;
+	padding: 8px;
 	color: #FF6930;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 15px;
 }
 .nav.navbar-nav.nav-menu > li > a:hover /* hover ที่ำให้เวลาเมาส์ชี้มีสี*/
 {
 	background-color: #FF6930 ;
 	border-bottom: #CC5426;
+}
+.padd {
+    padding: 20px;
+}
+.line-left {
+    width: 100px;
+    height: 1px;
+    margin: 10px 0 25px 2px;
+    background: #FF6930;
+}
+.styletext {
+    text-indent: 30px;
+    text-align: justify;
+    font-size: 15px;
+}
+.pull-right{
+	position: absolute;
+    right:1-0px;
+	
+}
+.mgt30{
+	margin-top: 0px;
 }
