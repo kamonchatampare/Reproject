@@ -5,7 +5,7 @@
     <img src="<?php echo base_url("asset/images/banner1.png")?> " class='img-banner'> </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right nav-menu">
-			<li class="active"><a href=""> <i class="fa fa-home"></i>  หน้าหลัก</a></li>
+			<li class="active"><a href="<?php echo site_url("index/aboutas");?>"> <i class="fa fa-home"></i>  หน้าหลัก</a></li>
 			<li><a href=""><i class="fa fa-university"></i> เกี่ยวกับเรา</a></li>
 			<li><a href="webboard.php"><i class="fa fa-comments"></i> เว็บบอร์ด</a></li>
 			<li><a href="contact.html"><i class="fa fa-phone"></i> ติดต่อ</a></li>
