@@ -4,7 +4,7 @@
     <div class="row">
       
                 <div class="col-md-offset-4 col-md-5 padd">
-                    <h5>ติดต่อ</h5>
+                    <h4>ติดต่อ</h4>
                     <div class="line-left"></div>
                     <p class="styletext">
 					<strong><font class="piksell-color">สถาบันบ่มเพาะวิสาหกิจ</font></strong>อาคารอำนวยยศสุข มหาวิทยาลัยแม่โจ้ 
