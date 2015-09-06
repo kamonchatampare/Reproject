@@ -184,7 +184,7 @@ ul {
 }
 #footerwrap {
 	background-color: #f7f7f7;
-	padding: 40px 0 30px 0;
+	padding: 10px 0 10px 0;
 	text-align: center;
 	border-top: 1px solid #e6e6e6;
 }
@@ -672,4 +672,8 @@ address {
 }
 .mgt30{
 	margin-top: 0px;
+}
+.dropdown .dropdown-menu .bo:hover /* hover ที่ำให้เวลาเมาส์ชี้มีสี*/
+{
+	background-color: #FF6930 ;	
 }

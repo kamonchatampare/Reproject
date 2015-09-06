@@ -16,16 +16,18 @@
 					
 				</div>
 				
-				<div class="col-md-offset-1 col-md-5 padd">
+				 <div class="col-md-offset-1 col-md-5 padd">
                     <strong><h4 class="piksell-color">บริการ</h4></strong>
                     <div class="line-left"></div>
                     <p class="styletext">
+					<font>สถาบันบ่มเพาะวิสาหกิจ</font>อาคารอำนวยยศสุข มหาวิทยาลัยแม่โจ้ 
 					<br>
-				<a href="" style="font-size: 15px;margin-left: 0px;">service platform</a><br>
-               <a href="http://stdb.most.go.th/Home"style="font-size: 15px;margin-left: 0px;">ฐานข้อมูลโครงสร้างพื้นฐาน ภาครัฐ</a><br>  
-                <a href=""style="font-size: 15px;margin-left: 0px;">IRCT platform</a><br>
-                <a href=""style="font-size: 15px;margin-left: 0px;">Core server platform</a><br>
-                <a href=""style="font-size: 15px;margin-left: 0px;">บ่มเพาะ TBI platform </a> 
+				<i class="fa fa-asterisk"></i> <a href="" style="font-size: 15px;margin-left: 0px;">service platform</a><br>
+                <i class="fa fa-asterisk"></i> <a href="http://stdb.most.go.th/Home"style="font-size: 15px;margin-left: 0px;">ฐานข้อมูลโครงสร้างพื้นฐาน ภาครัฐ</a><br>
+                <i class="fa fa-asterisk"></i> <a href=""style="font-size: 15px;margin-left: 0px;">IRCT platform</a><br>
+                <i class="fa fa-asterisk"></i>  <a href=""style="font-size: 15px;margin-left: 0px;">Core server platform</a><br>	
+                <i class="fa fa-asterisk"></i> <a href=""style="font-size: 15px;margin-left: 0px;">บ่มเพาะ TBI platform </a>	 
+					
 				</div>
     </div>
   </div>

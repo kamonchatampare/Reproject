@@ -1,9 +1,8 @@
-<?php require'header.php';?>
-<?php require'menu.php';?>
+<!-- Section -->
+<div id="section_header">
+  <h2>ติดต่อ</h2>
+</div>
 ติดต่อ
 
 
 
-
-<?php require 'footer.php'?>
-<?php require 'script.php'?>

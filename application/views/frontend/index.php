@@ -45,7 +45,7 @@
 					<img src='<?php echo base_url("asset/images/about2.jpg") ?>' width='60%' height='40%'>
 				</div>
 				<div class="col-md-8" > 
-					<font size='4px'>ชื่องานวิจัย </font>
+					<font size='3px'>ชื่องานวิจัย </font>
 					<p>รายละเอียด</p>
 				</div>
 			</div>
