@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row">
       
-                <div class="col-md-offset-4 col-md-5 padd">
+                <div class="col-md-offset-1 col-md-5 padd">
                     <h4>ติดต่อ</h4>
                     <div class="line-left"></div>
                     <p class="styletext">
@@ -16,7 +16,15 @@
 					
 				</div>
 				
-		
+				<div class="col-md-offset-1 col-md-5 padd">
+                    <h4>บริการ</h4>
+                    <div class="line-left"></div>
+                    <p class="styletext">
+					<strong><font class="piksell-color">สถาบันบ่มเพาะวิสาหกิจ</font></strong>อาคารอำนวยยศสุข มหาวิทยาลัยแม่โจ้ 
+					<br>
+					<i class="fa fa-fax"></i>&nbsp;0-5387-5327<br>
+                    <i class="fa fa-envelope"></i>&nbsp;mjubi.mju@mju.ac.th
+				</div>
     </div>
   </div>
 </div>
