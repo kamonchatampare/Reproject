@@ -6,7 +6,7 @@
     <meta name="description" content="Creative - Bootstrap 3 Responsive Admin Template">
     <meta name="author" content="GeeksLabs">
     <meta name="keyword" content="Creative, Dashboard, Admin, Template, Theme, Bootstrap, Responsive, Retina, Minimal">
-    <link rel="shortcut icon" href="<?php echo base_url("asset2/img/favicon.png"); ?>">
+    <link href="<?php echo base_url("asset2/img/favicon.png"); ?>" rel="shortcut icon">
 
     <title>Research-MJU</title>
 
