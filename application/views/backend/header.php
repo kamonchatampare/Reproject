@@ -26,10 +26,10 @@
     <link href="<?php echo base_url("asset2/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.css"); ?>" 
     rel="stylesheet" type="text/css" media="screen"/>
     <!-- owl carousel -->
-    <link rel="stylesheet" href="<?php echo base_url("asset2/css/owl.carousel.css"); ?>" type="text/css">
+    <link href="<?php echo base_url("asset2/css/owl.carousel.css"); ?>" rel="stylesheet" type="text/css">
 	<link href="<?php echo base_url("asset2/css/jquery-jvectormap-1.2.2.css"); ?>" rel="stylesheet">
     <!-- Custom styles -->
-	<link rel="stylesheet" href="<?php echo base_url("asset2/css/fullcalendar.css"); ?>">
+	<link href="<?php echo base_url("asset2/css/fullcalendar.css"); ?>" rel="stylesheet">
 	<link href="<?php echo base_url("asset2/css/widgets.css"); ?>" rel="stylesheet">
     <link href="<?php echo base_url("asset2/css/style.css"); ?>" rel="stylesheet">
     <link href="<?php echo base_url("asset2/css/style-responsive.css"); ?>" rel="stylesheet" />
