@@ -1,4 +1,4 @@
-
+<!-- Bootstrap core JavaScript --> 
     <!-- javascripts -->
     <script src="<?php echo base_url("asset2/js/jquery.js")?>"></script>
 	<script src="<?php echo base_url("asset2/js/jquery-ui-1.10.4.min.js")?>"></script>
