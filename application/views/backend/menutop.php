@@ -1,4 +1,4 @@
-  <!-- container section start -->
+ <!-- container section start -->
   <section id="container" class="">
      
       
@@ -22,10 +22,10 @@
                 </ul>
                 <!--  search form end -->                
             </div>
-ropdown start-->
-                <ul class="nav pull-right t
+
             <div class="top-nav notification-row">                
-                <!-- notificatoin dop-menu">
+                <!-- notificatoin dropdown start-->
+                <ul class="nav pull-right top-menu">
                     
                     <!-- task notificatoin start -->
                     <li id="task_notificatoin_bar" class="dropdown">

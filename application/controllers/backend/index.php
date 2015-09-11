@@ -15,7 +15,8 @@ class Index extends CI_Controller {
 		$this->load->view('backend/menu');
 		$this->load->view('backend/top');
 		$this->load->view('backend/index');
-		$this->load->view('backend/script');	
+		$this->load->view('backend/script');
+		
 		
 	}
 
