@@ -8,7 +8,7 @@
             </div>
 
             <!--logo start-->
-            <a href="index.html" class="logo"> ระบบบริหารจัดการอุทยานวิทยาศาสตรื มหาวิทยาลัยแม่โจ้<span class="lite"> MJUBI</span></a>
+            <a href="index.html" class="logo"> ระบบบริหารจัดการอุทยานวิทยาศาสตร์ มหาวิทยาลัยแม่โจ้</a>
             <!--logo end-->
 
          
