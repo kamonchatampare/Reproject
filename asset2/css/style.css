@@ -1362,7 +1362,7 @@ div[data-role="editor-toolbar"] {
 
 /* Chat widget ends */
 .portlets{
-  min-height:50px;
+  min-height:100px;
 }
 
 .portlets .widget-head{
@@ -4937,4 +4937,8 @@ span.customSelect.changed {
 }
 .customSelectInner {
     background:url(../img/customSelect-arrow.gif) no-repeat center right;
+}
+.cal{
+	margin: 40px 0 0px 180px;
+	
 }
