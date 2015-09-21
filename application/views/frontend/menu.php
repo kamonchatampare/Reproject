@@ -14,7 +14,7 @@
                 <li class= "bo"><a href="" style="font-size: 15px;margin-left: 0px;">service platform</a></li>
                 <li class= "bo"><a href="http://stdb.most.go.th/Home"style="font-size: 15px;margin-left: 0px;">ฐานข้อมูลโครงสร้างพื้นฐาน ภาครัฐ</a></li>  
                 <li class= "bo"><a href=""style="font-size: 15px;margin-left: 0px;">IRCT platform</a></li>
-                <li class= "bo"><a href=""style="font-size: 15px;margin-left: 0px;">Core server platform</a></li>	
+                <li class= "bo"><a href=""style="font-size: 15px;margin-left: 0px;">co-research platform</a></li>	
                 <li class= "bo"><a href=""style="font-size: 15px;margin-left: 0px;">บ่มเพาะ TBI platform </a></li>	 				
       </ul>
 	          </li>
