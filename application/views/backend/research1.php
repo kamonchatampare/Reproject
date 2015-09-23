@@ -5,7 +5,7 @@
         <div class="col-lg-12">
           <h3 class="page-header"><i class="fa fa-laptop"></i>Management </h3>
           <ol class="breadcrumb">
-            <li><i class="fa fa-home"></i><a href="<?php echo base_url("backend/index")?>">Home</a></li><li><i class="fa fa-pencil"></i><a href="<?php echo base_url("backend/researcher")?>">จัดการข้อมูลนักวิจัย</a></li>
+            <li><i class="fa fa-home"></i><a href="<?php echo base_url("backend/index")?>">Home</a></li><li><i class="fa fa-pencil"></i><a href="<?php echo base_url("backend/research1")?>">จัดการข้อมูลผลงานวิจัย</a></li>
                     
           </ol>
         </div>
@@ -35,7 +35,7 @@
   </div></br>         
   <div class="col-sm-12">
       <div class="panel panel-default">
-          <div class="panel-heading">ข้อมูลนักวิจัย</div>
+          <div class="panel-heading">ข้อมูลผลงานวิจัย</div>
             <div class="panel-body">
               <table class="table table-bordered" >
                  <tr>

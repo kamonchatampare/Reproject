@@ -12,7 +12,7 @@
                       </a>
                       <ul class="sub">
                           <li><a class="" href="<?php echo base_url("backend/researcher")?>">จัดการข้อมูลนักวิจัย</a></li>                          
-                          <li><a class="" href="form_validation.html">จัดการข้อมูลผลงานวิจัย</a></li>
+                          <li><a class="" href="<?php echo base_url("backend/research1")?>">จัดการข้อมูลผลงานวิจัย</a></li>
                           <li><a class="" href="form_validation.html">จัดการข้อมูลรางวัลงานวิจัย</a></li>
                           <li><a class="" href="form_validation.html">จัดการประเภทความเชี่ยวชาญ</a></li>
                       </ul>
