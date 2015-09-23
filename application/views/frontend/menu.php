@@ -18,11 +18,8 @@
                 <li class= "bo"><a href=""style="font-size: 15px;margin-left: 0px;">บ่มเพาะ TBI platform </a></li>	 				
       </ul>
 	          </li>
-			<li class="dropdown "><a  data-toggle="dropdown" class="" href="#"><i class="fa fa-key"></i> เข้าสู่ระบบ  <span class="caret"></span></a>
-              <ul class="dropdown-menu " >
-                <li class= "bo"><a href="<?php echo base_url("frontend/personlogin")?>" style="font-size: 15px;margin-left: 0px;">ผู้ประกอบการ</a></li><br>
-                <li class= "bo"><a href="<?php echo base_url("frontend/officerlogin")?>"style="font-size: 15px;margin-left: 0px;">ผู้เจ้าหน้าที่</a></li>                   
-      </ul>
+			<li class="dropdown "><a  data-toggle="dropdown" class="" href="#"><i class="fa fa-key"></i> เข้าสู่ระบบ  </a>
+             
 	          </li>
       </ul>
     </div>
