@@ -15,7 +15,7 @@
     <script src="<?php echo base_url("asset2/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.js")?>"></script>
     <script src="<?php echo base_url("asset2/js/owl.carousel.js")?>" ></script>
     <!-- jQuery full calendar -->
-    <<script src="<?php echo base_url("asset2/js/fullcalendar.min.js")?>"></script> <!-- Full Google Calendar - Calendar -->
+    <script src="<?php echo base_url("asset2/js/fullcalendar.min.js")?>"></script> <!-- Full Google Calendar - Calendar -->
 	<script src="<?php echo base_url("asset2/assets/fullcalendar/fullcalendar/fullcalendar.js")?>"></script>
     <!--script for this page only-->
     <script src="<?php echo base_url("asset2/js/calendar-custom.js")?>"></script>
