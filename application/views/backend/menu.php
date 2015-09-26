@@ -13,8 +13,8 @@
                       <ul class="sub">
                           <li><a class="" href="<?php echo base_url("backend/researcher")?>">จัดการข้อมูลนักวิจัย</a></li>                          
                           <li><a class="" href="<?php echo base_url("backend/research1")?>">จัดการข้อมูลผลงานวิจัย</a></li>
-                          <li><a class="" href="form_validation.html">จัดการข้อมูลรางวัลงานวิจัย</a></li>
-                          <li><a class="" href="form_validation.html">จัดการประเภทความเชี่ยวชาญ</a></li>
+                          <li><a class="" href="<?php echo base_url("backend/researchaward")?>">จัดการข้อมูลรางวัลงานวิจัย</a></li>
+                          <li><a class="" href="<?php echo base_url("backend/specialization")?>">จัดการประเภทความเชี่ยวชาญ</a></li>
                       </ul>
                   </li>
                       <li class="sub-menu ">
@@ -24,9 +24,9 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="form_component.html">จัดการสถานประกอบการ</a></li>                          
-                          <li><a class="" href="form_validation.html">จัดการข้อมูลผู้ประกอบการ</a></li>
-                          <li><a class="" href="form_validation.html">จัดการประเภทอุตสาหกรรม</a></li>
+                          <li><a class="" href="<?php echo base_url("backend/establishment")?>">จัดการสถานประกอบการ</a></li>                          
+                          <li><a class="" href="<?php echo base_url("backend/entrepreneur")?>">จัดการข้อมูลผู้ประกอบการ</a></li>
+                          <li><a class="" href="<?php echo base_url("backend/industrytype")?>">จัดการประเภทอุตสาหกรรม</a></li>
                          </ul>
                   </li> <li class="sub-menu ">
                       <a href="javascript:;" class="">
@@ -43,28 +43,28 @@
                       </ul>
                   </li>
                       <li class="sub">
-                      <a class="" href="index.html">
+                      <a class="" href="<?php echo base_url("backend/dealresearch")?>">
                          <i class="fa fa-shopping-cart"></i>
                           <span>จัดการการซื้อขายงานวิจัย</span>
                       </a>
                   </li>
                                               
                  <li class="sub">
-                      <a class="" href="index.html">
+                      <a class="" href="<?php echo base_url("backend/catalog")?>">
                           <i class="fa fa-list"></i>
                           <span>จัดการแค็ตตาล็อก</span>
                       </a>
                   </li>
                            
                  <li class="sub">
-                      <a class="" href="index.html">
+                      <a class="" href="<?php echo base_url("backend/repost")?>">
                           <i class="fa fa-print"></i>
                           <span>ปริ้นท์เอกสาร</span>
                       </a>
                   </li>
                                
                                <li class="sub">
-                      <a class="" href="index.html">
+                      <a class="" href="<?php echo base_url("backend/manageresearch")?>">
                          <i class="fa fa-bullhorn"></i>
                           <span>จัดการข่าวประชาสัมพันธ์</span>
                       </a>
