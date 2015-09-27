@@ -22,11 +22,11 @@
                     <p class="styletext">
 					<font>สถาบันบ่มเพาะวิสาหกิจ</font>อาคารอำนวยยศสุข มหาวิทยาลัยแม่โจ้ 
 					<br>
-				<i class="fa fa-asterisk"></i> <a href="" style="font-size: 15px;margin-left: 0px;">service platform</a><br>
+				<i class="fa fa-asterisk"></i> <a href="" style="font-size: 15px;margin-left: 0px;">Service Platform</a><br>
                 <i class="fa fa-asterisk"></i> <a href="http://stdb.most.go.th/Home"style="font-size: 15px;margin-left: 0px;">ฐานข้อมูลโครงสร้างพื้นฐาน ภาครัฐ</a><br>
-                <i class="fa fa-asterisk"></i> <a href=""style="font-size: 15px;margin-left: 0px;">IRCT platform</a><br>
-                <i class="fa fa-asterisk"></i>  <a href=""style="font-size: 15px;margin-left: 0px;">Core server platform</a><br>	
-                <i class="fa fa-asterisk"></i> <a href=""style="font-size: 15px;margin-left: 0px;">บ่มเพาะ TBI platform </a>	 
+                <i class="fa fa-asterisk"></i>  <a href=""style="font-size: 15px;margin-left: 0px;">Co-Research Platform</a><br>	
+				<i class="fa fa-asterisk"></i> <a href=""style="font-size: 15px;margin-left: 0px;">IRCT Platform</a><br>
+                <i class="fa fa-asterisk"></i> <a href=""style="font-size: 15px;margin-left: 0px;">บ่มเพาะ TBI Platform</a>	 
 					
 				</div>
     </div>
